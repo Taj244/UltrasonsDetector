@@ -1,7 +1,7 @@
 #define VITESSE 340
 
-const int pin_echo=3;
-const int pin_trig=2;
+const int pin_echo=4;
+const int pin_trig=3;
 
 
 void setup() {
